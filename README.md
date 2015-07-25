@@ -1,8 +1,8 @@
-# dtform
-Linear Time Distance Transform (C++ with MATLAB MEX)
+# Linear Time Distance Transform (dtform)
 
 Authors: Sofien Bouaziz and Andrea Tagliasacchi
-Implementation of this (excellent) paper:
+
+Linear Time Distance Transform (C++ with MATLAB MEX), implementation of this (truly excellent) paper:
 
     @article{felzenszwalb_12,
  	  Author = {Felzenszwalb, Pedro F and Huttenlocher, Daniel P},
